@@ -1,0 +1,10 @@
+/node_modules
+/public/build
+/public/upload
+/storage
+/vendor
+.styleci.yml
+composer.lock
+package-lock.json
+.phpunit.xml
+
